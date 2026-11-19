@@ -27,6 +27,17 @@ git clone https://github.com/wspddas-source/behance-original-images.git \
 Restart Codex if the skill does not appear immediately. The skill is also
 compatible with other clients that load the open agent-skills format.
 
+### Install as a plugin
+
+For Plugins Directory installation, add the companion marketplace:
+
+```bash
+codex plugin marketplace add wspddas-source/behance-original-images-plugin
+```
+
+Restart the ChatGPT desktop app, open the Plugins Directory, select
+**wspddas Codex Plugins**, and install **Behance Original Images**.
+
 ## Use
 
 In Codex:
